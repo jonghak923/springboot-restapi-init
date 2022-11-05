@@ -1,5 +1,7 @@
 # springboot-restapi-init
-restapi
+ + Spring Boot를 활용한 REST API
+   + Self-Describtive Message와 HATEOAS(Hypermedia as the engine of application state)를 만족하는 REST API
+   + 테스트 주도 개발(TDD)로 진행
 
 # Getting Started
 
